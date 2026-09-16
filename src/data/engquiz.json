@@ -1,0 +1,26 @@
+[
+  {
+    "id": "grammar",
+    "header": "English Grammar Quiz",
+    "topic": "Tense",
+    "questions": [
+      { "id": 1, "question": "I ____ to school every day.", "options": ["go", "goes", "going", "gone"], "answer": "go" },
+      { "id": 2, "question": "She ____ a book yesterday.", "options": ["read", "reads", "reading", "has read"], "answer": "read" },
+      { "id": 3, "question": "They ____ dinner now.", "options": ["eat", "ate", "are eating", "eaten"], "answer": "are eating" },
+      { "id": 4, "question": "We ____ finished the work.", "options": ["have", "has", "are", "were"], "answer": "have" },
+      { "id": 5, "question": "He ____ be here tomorrow.", "options": ["will", "would", "was", "has"], "answer": "will" }
+    ]
+  },
+  {
+    "id": "vocabulary",
+    "header": "Vocabulary Builder",
+    "topic": "Word Power",
+    "questions": [
+      { "id": 1, "question": "Choose the synonym of 'rapid'.", "options": ["slow", "quick", "quiet", "weak"], "answer": "quick" },
+      { "id": 2, "question": "Choose the opposite of 'ancient'.", "options": ["old", "modern", "historic", "aged"], "answer": "modern" },
+      { "id": 3, "question": "A person who writes books is an ____. ", "options": ["author", "actor", "artist", "auditor"], "answer": "author" },
+      { "id": 4, "question": "What does 'generous' mean?", "options": ["willing to give", "very angry", "often late", "hard to find"], "answer": "willing to give" },
+      { "id": 5, "question": "Select the correctly spelled word.", "options": ["neccessary", "necessary", "nessesary", "necesary"], "answer": "necessary" }
+    ]
+  }
+]
