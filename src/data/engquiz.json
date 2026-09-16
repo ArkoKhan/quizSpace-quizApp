@@ -1,26 +1,356 @@
 [
   {
-    "id": "grammar",
-    "header": "English Grammar Quiz",
-    "topic": "Tense",
-    "questions": [
-      { "id": 1, "question": "I ____ to school every day.", "options": ["go", "goes", "going", "gone"], "answer": "go" },
-      { "id": 2, "question": "She ____ a book yesterday.", "options": ["read", "reads", "reading", "has read"], "answer": "read" },
-      { "id": 3, "question": "They ____ dinner now.", "options": ["eat", "ate", "are eating", "eaten"], "answer": "are eating" },
-      { "id": 4, "question": "We ____ finished the work.", "options": ["have", "has", "are", "were"], "answer": "have" },
-      { "id": 5, "question": "He ____ be here tomorrow.", "options": ["will", "would", "was", "has"], "answer": "will" }
-    ]
-  },
-  {
-    "id": "vocabulary",
-    "header": "Vocabulary Builder",
-    "topic": "Word Power",
-    "questions": [
-      { "id": 1, "question": "Choose the synonym of 'rapid'.", "options": ["slow", "quick", "quiet", "weak"], "answer": "quick" },
-      { "id": 2, "question": "Choose the opposite of 'ancient'.", "options": ["old", "modern", "historic", "aged"], "answer": "modern" },
-      { "id": 3, "question": "A person who writes books is an ____. ", "options": ["author", "actor", "artist", "auditor"], "answer": "author" },
-      { "id": 4, "question": "What does 'generous' mean?", "options": ["willing to give", "very angry", "often late", "hard to find"], "answer": "willing to give" },
-      { "id": 5, "question": "Select the correctly spelled word.", "options": ["neccessary", "necessary", "nessesary", "necesary"], "answer": "necessary" }
-    ]
-  }
+  "id": "GrammarChangingSentences",
+  "header": "Grammar Changing Sentences",
+  "topic": "Affirmative ↔ Negative",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct negative form of: 'He is honest.'",
+      "options": ["He is not honest.", "He is dishonest.", "He is not dishonest.", "He is never honest."],
+      "answer": "He is not dishonest."
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct negative form of: 'She is beautiful.'",
+      "options": ["She is not beautiful.", "She is ugly.", "She is not ugly.", "She is never beautiful."],
+      "answer": "She is not ugly."
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct negative form of: 'He always speaks the truth.'",
+      "options": ["He never tells a lie.", "He does not speak the truth.", "He rarely speaks the truth.", "He is not truthful."],
+      "answer": "He never tells a lie."
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct negative form of: 'She always helps me.'",
+      "options": ["She never neglects me.", "She does not help me.", "She rarely helps me.", "She never helps me."],
+      "answer": "She never neglects me."
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct negative form of: 'Everybody likes him.'",
+      "options": ["Nobody likes him.", "Nobody dislikes him.", "Everybody dislikes him.", "No one knows him."],
+      "answer": "Nobody dislikes him."
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct negative form of: 'Everyone respects the teacher.'",
+      "options": ["No one respects the teacher.", "Nobody disrespects the teacher.", "Everyone dislikes the teacher.", "Nobody knows the teacher."],
+      "answer": "Nobody disrespects the teacher."
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct negative form of: 'All students were present.'",
+      "options": ["No student was present.", "No student was absent.", "All students were absent.", "None were present."],
+      "answer": "No student was absent."
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct negative form of: 'All the boys passed the examination.'",
+      "options": ["None of the boys passed.", "No boy sat for the examination.", "None of the boys failed the examination.", "All boys were absent."],
+      "answer": "None of the boys failed the examination."
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct negative form of: 'I remember your name.'",
+      "options": ["I do not know your name.", "I do not forget your name.", "I never knew your name.", "I forgot your name."],
+      "answer": "I do not forget your name."
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct negative form of: 'She remembers the story.'",
+      "options": ["She forgets the story.", "She does not remember the story.", "She does not forget the story.", "She never reads the story."],
+      "answer": "She does not forget the story."
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct negative form of: 'The answer is correct.'",
+      "options": ["The answer is wrong.", "The answer is not correct.", "The answer is not incorrect.", "The answer is false."],
+      "answer": "The answer is not incorrect."
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct negative form of: 'The boy is brave.'",
+      "options": ["The boy is not brave.", "The boy is cowardly.", "The boy is not cowardly.", "The boy is never brave."],
+      "answer": "The boy is not cowardly."
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct negative form of: 'Everyone knows his name.'",
+      "options": ["Nobody knows his name.", "Nobody is unaware of his name.", "Everyone forgot his name.", "No one likes him."],
+      "answer": "Nobody is unaware of his name."
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct negative form of: 'All the questions were answered.'",
+      "options": ["None of the questions were unanswered.", "No question was answered.", "All questions were wrong.", "None were answered."],
+      "answer": "None of the questions were unanswered."
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct negative form of: 'He is wise.'",
+      "options": ["He is not wise.", "He is foolish.", "He is not foolish.", "He is never wise."],
+      "answer": "He is not foolish."
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct negative form of: 'The plan is possible.'",
+      "options": ["The plan is impossible.", "The plan is not possible.", "The plan is not impossible.", "The plan cannot happen."],
+      "answer": "The plan is not impossible."
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct negative form of: 'Everybody praised the player.'",
+      "options": ["Nobody praised the player.", "Nobody failed to praise the player.", "Everybody ignored the player.", "Nobody knew the player."],
+      "answer": "Nobody failed to praise the player."
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct negative form of: 'He always keeps his promise.'",
+      "options": ["He never makes promises.", "He never fails to keep his promise.", "He does not keep his promise.", "He rarely keeps his promise."],
+      "answer": "He never fails to keep his promise."
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct negative form of: 'Everyone admired the brave soldier.'",
+      "options": ["Nobody admired the brave soldier.", "Nobody failed to admire the brave soldier.", "Everyone ignored the brave soldier.", "Nobody knew the soldier."],
+      "answer": "Nobody failed to admire the brave soldier."
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct negative form of: 'The statement is true.'",
+      "options": ["The statement is false.", "The statement is not true.", "The statement is not false.", "The statement is doubtful."],
+      "answer": "The statement is not false."
+    }
+  ]
+},
+{
+  "id": "grammar_hard",
+  "header": "Grammar Changing Sentences",
+  "topic": "Mixed Transformation Rules (Affirmative ↔ Negative)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct negative form of: 'Everybody trusted him.'",
+      "options": [
+        "Nobody trusted him.",
+        "Nobody distrusted him.",
+        "Everybody distrusted him.",
+        "No one knew him."
+      ],
+      "answer": "Nobody distrusted him."
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct negative form of: 'All the guests were happy.'",
+      "options": [
+        "No guest was happy.",
+        "None of the guests were unhappy.",
+        "All guests were unhappy.",
+        "No guests attended."
+      ],
+      "answer": "None of the guests were unhappy."
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct negative form of: 'He always obeys his parents.'",
+      "options": [
+        "He does not obey his parents.",
+        "He never disobeys his parents.",
+        "He rarely obeys his parents.",
+        "He never obeys his parents."
+      ],
+      "answer": "He never disobeys his parents."
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct negative form of: 'The news is true.'",
+      "options": [
+        "The news is false.",
+        "The news is not true.",
+        "The news is not false.",
+        "The news is doubtful."
+      ],
+      "answer": "The news is not false."
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct negative form of: 'Only Karim solved the problem.'",
+      "options": [
+        "Nobody solved the problem.",
+        "Nobody but Karim solved the problem.",
+        "Karim did not solve the problem.",
+        "Only Karim could not solve the problem."
+      ],
+      "answer": "Nobody but Karim solved the problem."
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct negative form of: 'Everyone admired the scientist.'",
+      "options": [
+        "Nobody admired the scientist.",
+        "Nobody failed to admire the scientist.",
+        "Everyone praised the scientist.",
+        "Nobody knew the scientist."
+      ],
+      "answer": "Nobody failed to admire the scientist."
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct negative form of: 'I remember his advice.'",
+      "options": [
+        "I forget his advice.",
+        "I do not remember his advice.",
+        "I do not forget his advice.",
+        "I never heard his advice."
+      ],
+      "answer": "I do not forget his advice."
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct negative form of: 'The road is safe.'",
+      "options": [
+        "The road is not safe.",
+        "The road is dangerous.",
+        "The road is not dangerous.",
+        "The road is risky."
+      ],
+      "answer": "The road is not dangerous."
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct negative form of: 'All the members supported the proposal.'",
+      "options": [
+        "No member opposed the proposal.",
+        "No member supported the proposal.",
+        "None supported the proposal.",
+        "All opposed the proposal."
+      ],
+      "answer": "No member opposed the proposal."
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct negative form of: 'Everyone knows the importance of honesty.'",
+      "options": [
+        "Nobody knows the importance of honesty.",
+        "Nobody is unaware of the importance of honesty.",
+        "Everyone ignores honesty.",
+        "No one values honesty."
+      ],
+      "answer": "Nobody is unaware of the importance of honesty."
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct negative form of: 'Iron is stronger than wood.'",
+      "options": [
+        "Wood is weaker than iron.",
+        "Wood is not as strong as iron.",
+        "Iron is not weaker than wood.",
+        "Wood is strong."
+      ],
+      "answer": "Wood is not as strong as iron."
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct negative form of: 'Dhaka is the largest city in Bangladesh.'",
+      "options": [
+        "No other city in Bangladesh is as large as Dhaka.",
+        "Dhaka is not a large city.",
+        "Every city is smaller than Dhaka.",
+        "Dhaka is larger than some cities."
+      ],
+      "answer": "No other city in Bangladesh is as large as Dhaka."
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct negative form of: 'He is too weak to carry the box.'",
+      "options": [
+        "He is not weak.",
+        "He cannot carry the box.",
+        "He is not strong enough to carry the box.",
+        "He is very weak."
+      ],
+      "answer": "He is not strong enough to carry the box."
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct negative form of: 'She is wise.'",
+      "options": [
+        "She is not wise.",
+        "She is foolish.",
+        "She is not foolish.",
+        "She is intelligent."
+      ],
+      "answer": "She is not foolish."
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct negative form of: 'Everybody praised the winner.'",
+      "options": [
+        "Nobody praised the winner.",
+        "Nobody failed to praise the winner.",
+        "Everybody admired the winner.",
+        "Nobody noticed the winner."
+      ],
+      "answer": "Nobody failed to praise the winner."
+    },
+    {
+      "id": 16,
+      "question": "Choose the correct negative form of: 'All men are mortal.'",
+      "options": [
+        "No men are mortal.",
+        "No man is immortal.",
+        "All men are not immortal.",
+        "Some men are immortal."
+      ],
+      "answer": "No man is immortal."
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct negative form of: 'The plan is possible.'",
+      "options": [
+        "The plan is impossible.",
+        "The plan is not possible.",
+        "The plan is not impossible.",
+        "The plan might fail."
+      ],
+      "answer": "The plan is not impossible."
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct negative form of: 'He always keeps his word.'",
+      "options": [
+        "He never breaks his word.",
+        "He never keeps his word.",
+        "He rarely keeps his word.",
+        "He does not keep his word."
+      ],
+      "answer": "He never breaks his word."
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct negative form of: 'No other student in the class is as intelligent as Rafi.'",
+      "options": [
+        "Rafi is the most intelligent student in the class.",
+        "Rafi is intelligent.",
+        "Rafi is more intelligent than some students.",
+        "Rafi is not intelligent."
+      ],
+      "answer": "Rafi is the most intelligent student in the class."
+    },
+    {
+      "id": 20,
+      "question": "Choose the correct negative form of: 'As soon as he reached home, it began to rain.'",
+      "options": [
+        "No sooner had he reached home than it began to rain.",
+        "He reached home before it rained.",
+        "It began to rain after he reached home.",
+        "He reached home and then it rained."
+      ],
+      "answer": "No sooner had he reached home than it began to rain."
+    }
+  ]
+}
 ]
