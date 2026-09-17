@@ -1,4 +1,702 @@
 [
+  {
+  "id": "Sentences001",
+  "header": "Basic Grammar",
+  "topic": "Sentences",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which part of a sentence tells who or what is being talked about?",
+      "options": ["Predicate", "Subject", "Clause", "Phrase"],
+      "answer": "Subject"
+    },
+    {
+      "id": 2,
+      "question": "Which part of a sentence explains the subject?",
+      "options": ["Object", "Phrase", "Predicate", "Noun"],
+      "answer": "Predicate"
+    },
+    {
+      "id": 3,
+      "question": "What type of sentence makes a statement?",
+      "options": ["Interrogative", "Imperative", "Exclamatory", "Declarative"],
+      "answer": "Declarative"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is interrogative?",
+      "options": ["Open the door.", "Where are you?", "What a beautiful day!", "The sky is blue."],
+      "answer": "Where are you?"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence is imperative?",
+      "options": ["We are happy.", "Please sit down.", "How lovely!", "Where do you live?"],
+      "answer": "Please sit down."
+    },
+    {
+      "id": 6,
+      "question": "Which sentence is exclamatory?",
+      "options": ["She sings well.", "Do you sing?", "Close the window.", "Alas! She is dead."],
+      "answer": "Alas! She is dead."
+    },
+    {
+      "id": 7,
+      "question": "A phrase contains:",
+      "options": ["A subject and predicate", "Only a predicate", "Neither subject nor predicate", "Only a subject"],
+      "answer": "Neither subject nor predicate"
+    },
+    {
+      "id": 8,
+      "question": "A clause contains:",
+      "options": ["A noun only", "A verb only", "A subject and predicate", "An adjective only"],
+      "answer": "A subject and predicate"
+    },
+    {
+      "id": 9,
+      "question": "In the sentence 'He is playing football', what is the subject?",
+      "options": ["playing", "football", "is playing football", "He"],
+      "answer": "He"
+    },
+    {
+      "id": 10,
+      "question": "In the sentence 'The flowers are red in color', what is the predicate?",
+      "options": ["The flowers", "flowers", "are red in color", "red"],
+      "answer": "are red in color"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a phrase?",
+      "options": ["while it is raining", "who pay their debts", "in the east", "she sings"],
+      "answer": "in the east"
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a clause?",
+      "options": ["to my door", "in the garden", "while it is raining", "on the table"],
+      "answer": "while it is raining"
+    },
+    {
+      "id": 13,
+      "question": "In most imperative sentences, which part is left out?",
+      "options": ["Object", "Predicate", "Subject", "Verb"],
+      "answer": "Subject"
+    },
+    {
+      "id": 14,
+      "question": "Which sentence makes a statement?",
+      "options": ["Where are you?", "Stop talking.", "How wonderful!", "We are going to school."],
+      "answer": "We are going to school."
+    },
+    {
+      "id": 15,
+      "question": "Which punctuation mark usually ends an interrogative sentence?",
+      "options": [".", "!", "?", ";"],
+      "answer": "?"
+    },
+    {
+      "id": 16,
+      "question": "'Kindly open the door.' is an example of:",
+      "options": ["Command", "Request/Entreaty", "Statement", "Question"],
+      "answer": "Request/Entreaty"
+    },
+    {
+      "id": 17,
+      "question": "Which sentence expresses emotion?",
+      "options": ["The book is on the table.", "Can you help me?", "Yay! We won the game.", "Bring me water."],
+      "answer": "Yay! We won the game."
+    },
+    {
+      "id": 18,
+      "question": "In the sentence 'We are going to school', what is the subject?",
+      "options": ["school", "going", "We", "are going"],
+      "answer": "We"
+    },
+    {
+      "id": 19,
+      "question": "In the sentence 'He is playing football', what is the predicate?",
+      "options": ["He", "football", "is playing football", "playing"],
+      "answer": "is playing football"
+    },
+    {
+      "id": 20,
+      "question": "A sentence is mainly divided into how many parts?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "answer": "Two"
+    }
+  ]
+},
+{
+  "id": "Sentences002",
+  "header": "Basic Grammar",
+  "topic": "Sentences (Hard)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence is an imperative sentence expressing a request?",
+      "options": [
+        "The sun rises in the east.",
+        "Could you give me a glass of water?",
+        "How beautiful the night is!",
+        "Where are you?"
+      ],
+      "answer": "Could you give me a glass of water?"
+    },
+    {
+      "id": 2,
+      "question": "Which sentence contains a phrase rather than a clause?",
+      "options": [
+        "while it is raining",
+        "who pay their debts",
+        "in the east",
+        "which is made of gold"
+      ],
+      "answer": "in the east"
+    },
+    {
+      "id": 3,
+      "question": "In the sentence 'People who pay their debts are trusted', which part is the clause?",
+      "options": [
+        "People",
+        "are trusted",
+        "who pay their debts",
+        "their debts"
+      ],
+      "answer": "who pay their debts"
+    },
+    {
+      "id": 4,
+      "question": "Which sentence is exclamatory?",
+      "options": [
+        "Shut the door.",
+        "Where are you?",
+        "How beautiful the night is!",
+        "We are going to school."
+      ],
+      "answer": "How beautiful the night is!"
+    },
+    {
+      "id": 5,
+      "question": "A phrase differs from a clause because a phrase:",
+      "options": [
+        "contains a verb",
+        "contains a subject",
+        "has no subject and predicate",
+        "always makes complete sense"
+      ],
+      "answer": "has no subject and predicate"
+    },
+    {
+      "id": 6,
+      "question": "In 'The flowers are red in color', the complete subject is:",
+      "options": [
+        "flowers",
+        "The flowers",
+        "are red",
+        "red in color"
+      ],
+      "answer": "The flowers"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a dependent clause?",
+      "options": [
+        "The flowers are red",
+        "while it is raining",
+        "The book is on the table",
+        "We are going home"
+      ],
+      "answer": "while it is raining"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence contains an implied subject?",
+      "options": [
+        "He is playing football.",
+        "We are going to school.",
+        "Open the door.",
+        "The flowers are red."
+      ],
+      "answer": "Open the door."
+    },
+    {
+      "id": 9,
+      "question": "In 'We cannot start while it is raining', the clause is:",
+      "options": [
+        "We cannot start",
+        "cannot start",
+        "while it is raining",
+        "it"
+      ],
+      "answer": "while it is raining"
+    },
+    {
+      "id": 10,
+      "question": "Which sentence type primarily expresses emotions?",
+      "options": [
+        "Declarative",
+        "Imperative",
+        "Interrogative",
+        "Exclamatory"
+      ],
+      "answer": "Exclamatory"
+    },
+    {
+      "id": 11,
+      "question": "Which option contains a phrase?",
+      "options": [
+        "who pay their debts",
+        "which is made of gold",
+        "to my door",
+        "while it is raining"
+      ],
+      "answer": "to my door"
+    },
+    {
+      "id": 12,
+      "question": "Which part of a sentence usually contains the verb?",
+      "options": [
+        "Subject",
+        "Predicate",
+        "Object",
+        "Phrase"
+      ],
+      "answer": "Predicate"
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is NOT a kind of sentence discussed in the notes?",
+      "options": [
+        "Declarative",
+        "Interrogative",
+        "Conditional",
+        "Imperative"
+      ],
+      "answer": "Conditional"
+    },
+    {
+      "id": 14,
+      "question": "In 'He has a chain which is made of gold', the clause is:",
+      "options": [
+        "He has",
+        "a chain",
+        "which is made of gold",
+        "made of gold"
+      ],
+      "answer": "which is made of gold"
+    },
+    {
+      "id": 15,
+      "question": "Which sentence is best classified as declarative?",
+      "options": [
+        "Why are you late?",
+        "Please be quiet.",
+        "The book is on the table.",
+        "What a surprise!"
+      ],
+      "answer": "The book is on the table."
+    },
+    {
+      "id": 16,
+      "question": "Which pair correctly identifies the two main parts of a sentence?",
+      "options": [
+        "Noun and Verb",
+        "Phrase and Clause",
+        "Subject and Predicate",
+        "Question and Answer"
+      ],
+      "answer": "Subject and Predicate"
+    },
+    {
+      "id": 17,
+      "question": "Which sentence contains both a main clause and a dependent clause?",
+      "options": [
+        "Open the door.",
+        "The sky is blue.",
+        "We cannot start while it is raining.",
+        "How lovely!"
+      ],
+      "answer": "We cannot start while it is raining."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following groups of words makes sense but not complete sense by itself?",
+      "options": [
+        "The flowers are red.",
+        "He is playing football.",
+        "in the east",
+        "Where are you?"
+      ],
+      "answer": "in the east"
+    },
+    {
+      "id": 19,
+      "question": "In the sentence 'He is playing football', which part is the predicate?",
+      "options": [
+        "He",
+        "playing",
+        "football",
+        "is playing football"
+      ],
+      "answer": "is playing football"
+    },
+    {
+      "id": 20,
+      "question": "Which sentence is an imperative sentence expressing a command?",
+      "options": [
+        "Shut the door.",
+        "Where are you?",
+        "The sun rises in the east.",
+        "Oh no! I broke the glass."
+      ],
+      "answer": "Shut the door."
+    }
+  ]
+},
+{
+  "id": "PartsOfSpeech001",
+  "header": "Basic Grammar",
+  "topic": "Parts of Speech",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which part of speech names a person, place, or thing?",
+      "options": ["Verb", "Noun", "Adjective", "Pronoun"],
+      "answer": "Noun"
+    },
+    {
+      "id": 2,
+      "question": "In the sentence 'Akbar was a great king', the word 'Akbar' is a:",
+      "options": ["Verb", "Pronoun", "Noun", "Adjective"],
+      "answer": "Noun"
+    },
+    {
+      "id": 3,
+      "question": "Which part of speech adds meaning to a noun?",
+      "options": ["Adverb", "Verb", "Conjunction", "Adjective"],
+      "answer": "Adjective"
+    },
+    {
+      "id": 4,
+      "question": "In the phrase 'a brave boy', the word 'brave' is a:",
+      "options": ["Noun", "Adjective", "Verb", "Adverb"],
+      "answer": "Adjective"
+    },
+    {
+      "id": 5,
+      "question": "A pronoun is a word used:",
+      "options": [
+        "instead of a noun",
+        "to describe a noun",
+        "to join words",
+        "to express action"
+      ],
+      "answer": "instead of a noun"
+    },
+    {
+      "id": 6,
+      "question": "In 'John is ill because he is sick', the word 'he' is a:",
+      "options": ["Pronoun", "Noun", "Verb", "Adjective"],
+      "answer": "Pronoun"
+    },
+    {
+      "id": 7,
+      "question": "Which part of speech expresses an action or state?",
+      "options": ["Verb", "Adverb", "Noun", "Interjection"],
+      "answer": "Verb"
+    },
+    {
+      "id": 8,
+      "question": "In the sentence 'She wrote a letter', the word 'wrote' is a:",
+      "options": ["Noun", "Verb", "Adjective", "Preposition"],
+      "answer": "Verb"
+    },
+    {
+      "id": 9,
+      "question": "An adverb can modify:",
+      "options": [
+        "only verbs",
+        "only adjectives",
+        "verbs, adjectives, and other adverbs",
+        "only nouns"
+      ],
+      "answer": "verbs, adjectives, and other adverbs"
+    },
+    {
+      "id": 10,
+      "question": "In the sentence 'The cat ran quickly across the yard', the word 'quickly' is a:",
+      "options": ["Verb", "Adverb", "Adjective", "Noun"],
+      "answer": "Adverb"
+    },
+    {
+      "id": 11,
+      "question": "Which part of speech shows the relationship of a noun or pronoun to another word?",
+      "options": ["Conjunction", "Interjection", "Preposition", "Adverb"],
+      "answer": "Preposition"
+    },
+    {
+      "id": 12,
+      "question": "In the sentence 'The book is on the table', the word 'on' is a:",
+      "options": ["Preposition", "Conjunction", "Adjective", "Verb"],
+      "answer": "Preposition"
+    },
+    {
+      "id": 13,
+      "question": "Which part of speech joins words or sentences?",
+      "options": ["Adverb", "Preposition", "Conjunction", "Interjection"],
+      "answer": "Conjunction"
+    },
+    {
+      "id": 14,
+      "question": "In 'I like tea and coffee', the word 'and' is a:",
+      "options": ["Preposition", "Conjunction", "Adverb", "Interjection"],
+      "answer": "Conjunction"
+    },
+    {
+      "id": 15,
+      "question": "Which part of speech expresses sudden feelings or emotions?",
+      "options": ["Verb", "Pronoun", "Interjection", "Noun"],
+      "answer": "Interjection"
+    },
+    {
+      "id": 16,
+      "question": "In the sentence 'Yay! We won the game', the word 'Yay!' is a:",
+      "options": ["Adverb", "Interjection", "Conjunction", "Verb"],
+      "answer": "Interjection"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a determiner?",
+      "options": ["quickly", "those", "run", "because"],
+      "answer": "those"
+    },
+    {
+      "id": 18,
+      "question": "In the sentence 'This bag is very light', the word 'light' functions as a:",
+      "options": ["Verb", "Noun", "Adjective", "Adverb"],
+      "answer": "Adjective"
+    },
+    {
+      "id": 19,
+      "question": "In the sentence 'Please light the candle', the word 'light' functions as a:",
+      "options": ["Verb", "Noun", "Adjective", "Pronoun"],
+      "answer": "Verb"
+    },
+    {
+      "id": 20,
+      "question": "In the sentence 'He arrived soon after', the word 'after' functions as a:",
+      "options": ["Conjunction", "Preposition", "Adverb", "Noun"],
+      "answer": "Adverb"
+    }
+  ]
+},
+{
+  "id": "PartsOfSpeech002",
+  "header": "Basic Grammar",
+  "topic": "Parts of Speech (Hard)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which sentence contains a pronoun?",
+      "options": [
+        "The rose smells sweet.",
+        "John is ill because he is sick.",
+        "Akbar was a great king.",
+        "The sun shines bright."
+      ],
+      "answer": "John is ill because he is sick."
+    },
+    {
+      "id": 2,
+      "question": "Which word functions as an adjective in the sentence 'There are twenty people on the field'?",
+      "options": ["There", "twenty", "people", "field"],
+      "answer": "twenty"
+    },
+    {
+      "id": 3,
+      "question": "Which part of speech can modify a verb, an adjective, or another adverb?",
+      "options": ["Noun", "Adverb", "Pronoun", "Preposition"],
+      "answer": "Adverb"
+    },
+    {
+      "id": 4,
+      "question": "In 'The baby is almost asleep', the word 'almost' modifies:",
+      "options": ["baby", "is", "asleep", "the"],
+      "answer": "asleep"
+    },
+    {
+      "id": 5,
+      "question": "Which word is a preposition in the sentence 'The book is on the table'?",
+      "options": ["book", "is", "on", "table"],
+      "answer": "on"
+    },
+    {
+      "id": 6,
+      "question": "Which conjunction joins two individual words rather than two clauses?",
+      "options": [
+        "because",
+        "although",
+        "and",
+        "than"
+      ],
+      "answer": "and"
+    },
+    {
+      "id": 7,
+      "question": "In 'She was tired, but she kept working', the word 'but' is a:",
+      "options": [
+        "Preposition",
+        "Pronoun",
+        "Conjunction",
+        "Adverb"
+      ],
+      "answer": "Conjunction"
+    },
+    {
+      "id": 8,
+      "question": "Which sentence contains an interjection?",
+      "options": [
+        "The cat ran quickly.",
+        "Yay! We won the game.",
+        "The book is on the table.",
+        "She wrote a letter."
+      ],
+      "answer": "Yay! We won the game."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is a demonstrative determiner?",
+      "options": [
+        "many",
+        "their",
+        "those",
+        "first"
+      ],
+      "answer": "those"
+    },
+    {
+      "id": 10,
+      "question": "In the sentence 'The books are where you left them', what does the pronoun 'them' refer to?",
+      "options": [
+        "you",
+        "where",
+        "books",
+        "left"
+      ],
+      "answer": "books"
+    },
+    {
+      "id": 11,
+      "question": "Which sentence uses 'light' as a noun?",
+      "options": [
+        "Please light the candle.",
+        "This bag is very light.",
+        "The light is very bright.",
+        "Light travels fast."
+      ],
+      "answer": "The light is very bright."
+    },
+    {
+      "id": 12,
+      "question": "Which sentence uses 'after' as a conjunction?",
+      "options": [
+        "He came after me.",
+        "I will call you after you arrive.",
+        "He arrived soon after.",
+        "After the meeting, we left."
+      ],
+      "answer": "I will call you after you arrive."
+    },
+    {
+      "id": 13,
+      "question": "Which sentence uses 'after' as an adverb?",
+      "options": [
+        "He came after me.",
+        "I will call you after you arrive.",
+        "He arrived soon after.",
+        "After dinner we studied."
+      ],
+      "answer": "He arrived soon after."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is a subordinating conjunction?",
+      "options": [
+        "and",
+        "but",
+        "because",
+        "yet"
+      ],
+      "answer": "because"
+    },
+    {
+      "id": 15,
+      "question": "Which pair is an example of a correlative conjunction?",
+      "options": [
+        "because - although",
+        "for - and",
+        "either - or",
+        "but - yet"
+      ],
+      "answer": "either - or"
+    },
+    {
+      "id": 16,
+      "question": "Which determiner type does the word 'my' belong to?",
+      "options": [
+        "Demonstrative",
+        "Quantifier",
+        "Possessive Determiner",
+        "Distributive"
+      ],
+      "answer": "Possessive Determiner"
+    },
+    {
+      "id": 17,
+      "question": "In 'She runs faster than her brother does', the word 'than' is a:",
+      "options": [
+        "Preposition",
+        "Conjunction",
+        "Adverb",
+        "Determiner"
+      ],
+      "answer": "Conjunction"
+    },
+    {
+      "id": 18,
+      "question": "Which statement is TRUE according to the notes?",
+      "options": [
+        "Every word belongs to only one part of speech.",
+        "A noun can never become a verb.",
+        "The same word may function as different parts of speech.",
+        "Determiners are always nouns."
+      ],
+      "answer": "The same word may function as different parts of speech."
+    },
+    {
+      "id": 19,
+      "question": "In the sentence 'Please light the candle', the word 'light' is classified as a:",
+      "options": [
+        "Noun",
+        "Verb",
+        "Adjective",
+        "Adverb"
+      ],
+      "answer": "Verb"
+    },
+    {
+      "id": 20,
+      "question": "Which sentence best demonstrates that a word's part of speech depends on its use in a sentence?",
+      "options": [
+        "The rose smells sweet.",
+        "The light is bright. / Please light the candle.",
+        "Yay! We won the game.",
+        "The book is on the table."
+      ],
+      "answer": "The light is bright. / Please light the candle."
+    }
+  ]
+},
 {
   "id": "grammar_hard",
   "header": "Grammar Changing Sentences",
