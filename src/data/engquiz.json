@@ -923,5 +923,873 @@
       "answer": "No sooner had he reached home than it began to rain."
     }
   ]
+},
+{
+  "id": "asToInt",
+  "header": "Grammar Changing Sentences",
+  "topic": "Assertive ↔ Interrogative",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Change to Interrogative: He is honest.",
+      "options": ["Is he honest?", "Isn't he honest?", "Does he honest?", "Wasn't he honest?"],
+      "answer": "Isn't he honest?"
+    },
+    {
+      "id": 2,
+      "question": "Change to Assertive: Isn't she very kind?",
+      "options": ["She is not very kind.", "She was very kind.", "She is very kind.", "She can be very kind."],
+      "answer": "She is very kind."
+    },
+    {
+      "id": 3,
+      "question": "Change to Interrogative: They are not ready.",
+      "options": ["Aren't they ready?", "Are they ready?", "Were they ready?", "Don't they ready?"],
+      "answer": "Are they ready?"
+    },
+    {
+      "id": 4,
+      "question": "Change to Assertive: Can't he swim?",
+      "options": ["He cannot swim.", "He can swim.", "He could swim.", "He should swim."],
+      "answer": "He can swim."
+    },
+    {
+      "id": 5,
+      "question": "Change to Interrogative: She plays tennis.",
+      "options": ["Does she play tennis?", "Doesn't she play tennis?", "Did she play tennis?", "Is she play tennis?"],
+      "answer": "Doesn't she play tennis?"
+    },
+    {
+      "id": 6,
+      "question": "Change to Assertive: Don't you know him?",
+      "options": ["You know him.", "You don't know him.", "Did you know him.", "You knew him."],
+      "answer": "You know him."
+    },
+    {
+      "id": 7,
+      "question": "Change to Interrogative: He worked hard.",
+      "options": ["Did he work hard?", "Didn't he work hard?", "Doesn't he work hard?", "Hadn't he worked hard?"],
+      "answer": "Didn't he work hard?"
+    },
+    {
+      "id": 8,
+      "question": "Change to Assertive: Didn't she help me?",
+      "options": ["She didn't help me.", "She helped me.", "She helps me.", "She had helped me."],
+      "answer": "She helped me."
+    },
+    {
+      "id": 9,
+      "question": "Change to Interrogative: We shall win.",
+      "options": ["Shall we win?", "Shan't we win?", "Won't we win?", "Shouldn't we win?"],
+      "answer": "Shan't we win?"
+    },
+    {
+      "id": 10,
+      "question": "Change to Assertive: Shall we forget our teachers?",
+      "options": ["We shall forget our teachers.", "We shall not forget our teachers.", "We forgot our teachers.", "We forget our teachers."],
+      "answer": "We shall not forget our teachers."
+    },
+    {
+      "id": 11,
+      "question": "Change to Interrogative: He has finished the work.",
+      "options": ["Has he finished the work?", "Hasn't he finished the work?", "Hadn't he finished the work?", "Doesn't he finish the work?"],
+      "answer": "Hasn't he finished the work?"
+    },
+    {
+      "id": 12,
+      "question": "Change to Assertive: Have they arrived?",
+      "options": ["They arrived.", "They have not arrived.", "They have arrived.", "They had arrived."],
+      "answer": "They have not arrived."
+    },
+    {
+      "id": 13,
+      "question": "Change to Interrogative: Nobody trusts him.",
+      "options": ["Can anybody trust him?", "Does anybody trust him?", "Did anybody trust him?", "Won't anybody trust him?"],
+      "answer": "Does anybody trust him?"
+    },
+    {
+      "id": 14,
+      "question": "Change to Assertive: Can anybody answer this question?",
+      "options": ["Nobody can answer this question.", "Anybody can answer this question.", "Someone can answer this question.", "Everybody can answer this question."],
+      "answer": "Nobody can answer this question."
+    },
+    {
+      "id": 15,
+      "question": "Change to Interrogative: He never tells lies.",
+      "options": ["Does he never tell lies?", "Does he ever tell lies?", "Did he ever tell lies?", "Can he tell lies?"],
+      "answer": "Does he ever tell lies?"
+    },
+    {
+      "id": 16,
+      "question": "Change to Assertive: Does she ever waste time?",
+      "options": ["She ever wastes time.", "She wastes time.", "She never wastes time.", "She wasted time."],
+      "answer": "She never wastes time."
+    },
+    {
+      "id": 17,
+      "question": "Change to Interrogative: Everybody likes music.",
+      "options": ["Does everybody like music?", "Doesn't everybody like music?", "Don't everybody like music?", "Is everybody like music?"],
+      "answer": "Doesn't everybody like music?"
+    },
+    {
+      "id": 18,
+      "question": "Change to Assertive: Doesn't everyone respect her?",
+      "options": ["Everyone respects her.", "No one respects her.", "Everyone respected her.", "Everyone will respect her."],
+      "answer": "Everyone respects her."
+    },
+    {
+      "id": 19,
+      "question": "Change to Interrogative: There is a book on the table.",
+      "options": ["Is there a book on the table?", "Isn't there a book on the table?", "Was there a book on the table?", "Does there a book on the table?"],
+      "answer": "Isn't there a book on the table?"
+    },
+    {
+      "id": 20,
+      "question": "Change to Assertive: Aren't there many birds in the sky?",
+      "options": ["There are not many birds in the sky.", "There are many birds in the sky.", "There were many birds in the sky.", "There can be many birds in the sky."],
+      "answer": "There are many birds in the sky."
+    },
+    {
+      "id": 21,
+      "question": "Change to Interrogative: He should obey his parents.",
+      "options": ["Should he obey his parents?", "Shouldn't he obey his parents?", "Wouldn't he obey his parents?", "Mustn't he obey his parents?"],
+      "answer": "Shouldn't he obey his parents?"
+    },
+    {
+      "id": 22,
+      "question": "Change to Assertive: Should he waste time?",
+      "options": ["He should waste time.", "He should not waste time.", "He wastes time.", "He wasted time."],
+      "answer": "He should not waste time."
+    },
+    {
+      "id": 23,
+      "question": "Change to Interrogative: They will help the poor.",
+      "options": ["Will they help the poor?", "Won't they help the poor?", "Wouldn't they help the poor?", "Shan't they help the poor?"],
+      "answer": "Won't they help the poor?"
+    },
+    {
+      "id": 24,
+      "question": "Change to Assertive: Will they refuse our request?",
+      "options": ["They refuse our request.", "They will refuse our request.", "They will not refuse our request.", "They refused our request."],
+      "answer": "They will not refuse our request."
+    },
+    {
+      "id": 25,
+      "question": "Change to Interrogative: She could guide us.",
+      "options": ["Could she guide us?", "Couldn't she guide us?", "Couldn't she could guide us?", "Did she guide us?"],
+      "answer": "Couldn't she guide us?"
+    },
+    {
+      "id": 26,
+      "question": "Change to Assertive: Could she understand the lesson?",
+      "options": ["She could understand the lesson.", "She could not understand the lesson.", "She understands the lesson.", "She understood the lesson."],
+      "answer": "She could not understand the lesson."
+    },
+    {
+      "id": 27,
+      "question": "Change to Interrogative: We might win the match.",
+      "options": ["Mayn't we win the match?", "Mightn't we win the match?", "Mustn't we win the match?", "Shouldn't we win the match?"],
+      "answer": "Mightn't we win the match?"
+    },
+    {
+      "id": 28,
+      "question": "Change to Assertive: Might he ever return?",
+      "options": ["He might return.", "He might never return.", "He may never return.", "He will never return."],
+      "answer": "He might never return."
+    },
+    {
+      "id": 29,
+      "question": "Change to Interrogative: We must follow the rules.",
+      "options": ["Must we follow the rules?", "Mustn't we follow the rules?", "Shouldn't we follow the rules?", "Do we follow the rules?"],
+      "answer": "Mustn't we follow the rules?"
+    },
+    {
+      "id": 30,
+      "question": "Change to Assertive: Can he understand the lesson?",
+      "options": ["He can understand the lesson.", "He cannot understand the lesson.", "He understood the lesson.", "He understands the lesson."],
+      "answer": "He cannot understand the lesson."
+    }
+  ]
+},
+{
+  "id": "asToImp",
+  "header": "Grammar Changing Sentences",
+  "topic": "Assertive ↔ Imperative",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Change into Imperative: You should speak the truth.",
+      "options": [
+        "Speak the truth.",
+        "You speak the truth.",
+        "Please speak the truth.",
+        "Let us speak the truth."
+      ],
+      "answer": "Speak the truth."
+    },
+    {
+      "id": 2,
+      "question": "Change into Imperative: I request you to help me.",
+      "options": [
+        "Help me.",
+        "Please help me.",
+        "Let us help me.",
+        "You should help me."
+      ],
+      "answer": "Please help me."
+    },
+    {
+      "id": 3,
+      "question": "Change into Imperative: We should save water.",
+      "options": [
+        "Save water.",
+        "Please save water.",
+        "Let us save water.",
+        "You should save water."
+      ],
+      "answer": "Let us save water."
+    },
+    {
+      "id": 4,
+      "question": "Change into Imperative: You should not waste time.",
+      "options": [
+        "Never waste time.",
+        "Do not waste time.",
+        "Please do not waste time.",
+        "You do not waste time."
+      ],
+      "answer": "Do not waste time."
+    },
+    {
+      "id": 5,
+      "question": "Change into Assertive: Please close the door.",
+      "options": [
+        "You should close the door.",
+        "I request you to close the door.",
+        "We should close the door.",
+        "You must close the door."
+      ],
+      "answer": "I request you to close the door."
+    },
+    {
+      "id": 6,
+      "question": "Change into Assertive: Obey your teachers.",
+      "options": [
+        "You must obey your teachers.",
+        "You should obey your teachers.",
+        "We should obey your teachers.",
+        "I request you to obey your teachers."
+      ],
+      "answer": "You should obey your teachers."
+    },
+    {
+      "id": 7,
+      "question": "Change into Assertive: Let us plant more trees.",
+      "options": [
+        "You should plant more trees.",
+        "We should plant more trees.",
+        "Please plant more trees.",
+        "You must plant more trees."
+      ],
+      "answer": "We should plant more trees."
+    },
+    {
+      "id": 8,
+      "question": "Change into Assertive: Do not tell lies.",
+      "options": [
+        "You should not tell lies.",
+        "You must tell lies.",
+        "We should not tell lies.",
+        "I request you not to tell lies."
+      ],
+      "answer": "You should not tell lies."
+    },
+    {
+      "id": 9,
+      "question": "Change into Imperative: You must be careful.",
+      "options": [
+        "Always be careful.",
+        "Please be careful.",
+        "Let us be careful.",
+        "Be careful."
+      ],
+      "answer": "Be careful."
+    },
+    {
+      "id": 10,
+      "question": "Change into Imperative: I beg you to forgive me.",
+      "options": [
+        "Forgive me.",
+        "Please forgive me.",
+        "Let us forgive me.",
+        "You should forgive me."
+      ],
+      "answer": "Please forgive me."
+    },
+    {
+      "id": 11,
+      "question": "Change into Assertive: Please wait here.",
+      "options": [
+        "You should wait here.",
+        "I request you to wait here.",
+        "We should wait here.",
+        "You must wait here."
+      ],
+      "answer": "I request you to wait here."
+    },
+    {
+      "id": 12,
+      "question": "Change into Imperative: We should keep our surroundings clean.",
+      "options": [
+        "Keep our surroundings clean.",
+        "Please keep our surroundings clean.",
+        "Let us keep our surroundings clean.",
+        "You should keep our surroundings clean."
+      ],
+      "answer": "Let us keep our surroundings clean."
+    },
+    {
+      "id": 13,
+      "question": "Change into Assertive: Never lose hope.",
+      "options": [
+        "You should never lose hope.",
+        "You must never lose hope.",
+        "We should never lose hope.",
+        "I request you never to lose hope."
+      ],
+      "answer": "You should never lose hope."
+    },
+    {
+      "id": 14,
+      "question": "Change into Imperative: You should be honest.",
+      "options": [
+        "Always be honest.",
+        "Be honest.",
+        "Please be honest.",
+        "Let us be honest."
+      ],
+      "answer": "Be honest."
+    },
+    {
+      "id": 15,
+      "question": "Change into Assertive: Do not be late.",
+      "options": [
+        "You should not be late.",
+        "You must be late.",
+        "We should not be late.",
+        "I request you not to be late."
+      ],
+      "answer": "You should not be late."
+    },
+    {
+      "id": 16,
+      "question": "Change into Imperative: I urge you to attend the meeting.",
+      "options": [
+        "Attend the meeting.",
+        "Please attend the meeting.",
+        "Let us attend the meeting.",
+        "You should attend the meeting."
+      ],
+      "answer": "Please attend the meeting."
+    },
+    {
+      "id": 17,
+      "question": "Change into Assertive: Let us never forget our duties.",
+      "options": [
+        "You should never forget your duties.",
+        "We should never forget our duties.",
+        "Please never forget our duties.",
+        "You must never forget your duties."
+      ],
+      "answer": "We should never forget our duties."
+    },
+    {
+      "id": 18,
+      "question": "Change into Imperative: You must not touch the electric wire.",
+      "options": [
+        "Never touch the electric wire.",
+        "Do not touch the electric wire.",
+        "Please do not touch the electric wire.",
+        "You do not touch the electric wire."
+      ],
+      "answer": "Do not touch the electric wire."
+    },
+    {
+      "id": 19,
+      "question": "Change into Assertive: Be kind to animals.",
+      "options": [
+        "You should be kind to animals.",
+        "You must be kind to animals.",
+        "We should be kind to animals.",
+        "I request you to be kind to animals."
+      ],
+      "answer": "You should be kind to animals."
+    },
+    {
+      "id": 20,
+      "question": "Change into Imperative: I request you not to smoke here.",
+      "options": [
+        "Do not smoke here.",
+        "Please do not smoke here.",
+        "Never smoke here.",
+        "You should not smoke here."
+      ],
+      "answer": "Please do not smoke here."
+    }
+  ]
+},
+{
+  "id": "asToOp",
+  "header": "Grammar Changing Sentences",
+  "topic": "Assertive ↔ Optative",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Change into Optative: I wish that you may live long.",
+      "options": [
+        "May you live long!",
+        "May I live long!",
+        "Long live you!",
+        "I pray that you may live long."
+      ],
+      "answer": "May you live long!"
+    },
+    {
+      "id": 2,
+      "question": "Change into Assertive: May God bless you!",
+      "options": [
+        "I wish that God may bless you.",
+        "I pray that God may bless you.",
+        "May God bless you.",
+        "God bless you."
+      ],
+      "answer": "I pray that God may bless you."
+    },
+    {
+      "id": 3,
+      "question": "Change into Optative: We wish that our country may prosper.",
+      "options": [
+        "May our country prosper!",
+        "Our country may prosper.",
+        "Long prosper our country!",
+        "I wish that our country may prosper."
+      ],
+      "answer": "May our country prosper!"
+    },
+    {
+      "id": 4,
+      "question": "Change into Assertive: May you succeed in life!",
+      "options": [
+        "I pray that you may succeed in life.",
+        "I wish that you may succeed in life.",
+        "May you succeed in life.",
+        "You may succeed in life."
+      ],
+      "answer": "I wish that you may succeed in life."
+    },
+    {
+      "id": 5,
+      "question": "Change into Assertive: Long live our motherland!",
+      "options": [
+        "We pray that our motherland may live long.",
+        "We wish that our motherland may live long.",
+        "May our motherland live long.",
+        "Our motherland lives long."
+      ],
+      "answer": "We wish that our motherland may live long."
+    },
+    {
+      "id": 6,
+      "question": "Change into Optative: I pray that Allah may forgive us.",
+      "options": [
+        "May Allah forgive us!",
+        "Allah forgives us.",
+        "I pray for forgiveness.",
+        "May we forgive Allah!"
+      ],
+      "answer": "May Allah forgive us!"
+    },
+    {
+      "id": 7,
+      "question": "Change into Assertive: May peace prevail in the world!",
+      "options": [
+        "I wish that peace may prevail in the world.",
+        "Peace prevails in the world.",
+        "May peace prevail in the world.",
+        "I pray peace prevails."
+      ],
+      "answer": "I wish that peace may prevail in the world."
+    },
+    {
+      "id": 8,
+      "question": "Change into Optative: I wish that your dreams may come true.",
+      "options": [
+        "May your dreams come true!",
+        "Your dreams come true.",
+        "I wish your dreams.",
+        "Let your dreams come true."
+      ],
+      "answer": "May your dreams come true!"
+    },
+    {
+      "id": 9,
+      "question": "Change into Assertive: May God help us!",
+      "options": [
+        "I pray that God may help us.",
+        "I wish that God may help us.",
+        "God helps us.",
+        "May God help us."
+      ],
+      "answer": "I pray that God may help us."
+    },
+    {
+      "id": 10,
+      "question": "Change into Optative: We wish that our team may win the match.",
+      "options": [
+        "May our team win the match!",
+        "Our team wins the match.",
+        "Let our team win the match.",
+        "We wish to win."
+      ],
+      "answer": "May our team win the match!"
+    },
+    {
+      "id": 11,
+      "question": "Change into Assertive: May you enjoy good health!",
+      "options": [
+        "I pray that you may enjoy good health.",
+        "I wish that you may enjoy good health.",
+        "You enjoy good health.",
+        "May you enjoy good health."
+      ],
+      "answer": "I wish that you may enjoy good health."
+    },
+    {
+      "id": 12,
+      "question": "Change into Optative: I pray that God may protect the innocent.",
+      "options": [
+        "May God protect the innocent!",
+        "God protects the innocent.",
+        "Protect the innocent.",
+        "May the innocent protect God!"
+      ],
+      "answer": "May God protect the innocent!"
+    },
+    {
+      "id": 13,
+      "question": "Change into Assertive: Long live the king!",
+      "options": [
+        "We wish that the king may live long.",
+        "The king lives long.",
+        "May the king live long.",
+        "I pray the king lives long."
+      ],
+      "answer": "We wish that the king may live long."
+    },
+    {
+      "id": 14,
+      "question": "Change into Optative: I wish that you may recover soon.",
+      "options": [
+        "May you recover soon!",
+        "You recover soon.",
+        "Recover soon.",
+        "May I recover soon!"
+      ],
+      "answer": "May you recover soon!"
+    },
+    {
+      "id": 15,
+      "question": "Change into Assertive: May our school achieve success!",
+      "options": [
+        "We pray that our school may achieve success.",
+        "We wish that our school may achieve success.",
+        "Our school achieves success.",
+        "May our school achieve success."
+      ],
+      "answer": "We wish that our school may achieve success."
+    },
+    {
+      "id": 16,
+      "question": "Change into Optative: I pray that God may forgive my mistakes.",
+      "options": [
+        "May God forgive my mistakes!",
+        "God forgives my mistakes.",
+        "Forgive my mistakes.",
+        "May I forgive God!"
+      ],
+      "answer": "May God forgive my mistakes!"
+    },
+    {
+      "id": 17,
+      "question": "Change into Assertive: May you have a bright future!",
+      "options": [
+        "I pray that you may have a bright future.",
+        "I wish that you may have a bright future.",
+        "You have a bright future.",
+        "May you have a bright future."
+      ],
+      "answer": "I wish that you may have a bright future."
+    },
+    {
+      "id": 18,
+      "question": "Change into Optative: We wish that our nation may progress rapidly.",
+      "options": [
+        "May our nation progress rapidly!",
+        "Our nation progresses rapidly.",
+        "Let our nation progress rapidly.",
+        "We wish for rapid progress."
+      ],
+      "answer": "May our nation progress rapidly!"
+    },
+    {
+      "id": 19,
+      "question": "Change into Assertive: May Allah guide us!",
+      "options": [
+        "I wish that Allah may guide us.",
+        "I pray that Allah may guide us.",
+        "Allah guides us.",
+        "May Allah guide us."
+      ],
+      "answer": "I pray that Allah may guide us."
+    },
+    {
+      "id": 20,
+      "question": "Change into Optative: I wish that you may attain your goal.",
+      "options": [
+        "May you attain your goal!",
+        "You attain your goal.",
+        "Attain your goal.",
+        "May I attain your goal!"
+      ],
+      "answer": "May you attain your goal!"
+    }
+  ]
+},
+{
+  "id": "asToEx",
+  "header": "Grammar Changing Sentences",
+  "topic": "Assertive ↔ Exclamatory",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Change into exclamatory: The girl is very pretty.",
+      "options": [
+        "How pretty the girl is!",
+        "What a pretty girl is!",
+        "How the girl is pretty!",
+        "What pretty the girl is!"
+      ],
+      "answer": "How pretty the girl is!"
+    },
+    {
+      "id": 2,
+      "question": "Change into assertive: How honest he is!",
+      "options": [
+        "He is honest.",
+        "He is very honest.",
+        "He was honest.",
+        "He has been honest."
+      ],
+      "answer": "He is very honest."
+    },
+    {
+      "id": 3,
+      "question": "Change into exclamatory: It is a wonderful story.",
+      "options": [
+        "How wonderful the story is!",
+        "What a wonderful story it is!",
+        "What wonderful story it is!",
+        "How a wonderful story it is!"
+      ],
+      "answer": "What a wonderful story it is!"
+    },
+    {
+      "id": 4,
+      "question": "Change into assertive: What a beautiful flower it is!",
+      "options": [
+        "It is a beautiful flower.",
+        "It is a very beautiful flower.",
+        "The flower is beautiful.",
+        "It was a beautiful flower."
+      ],
+      "answer": "It is a very beautiful flower."
+    },
+    {
+      "id": 5,
+      "question": "Change into exclamatory: He runs very fast.",
+      "options": [
+        "What fast he runs!",
+        "How fast he runs!",
+        "How he runs fast!",
+        "What a fast runner he is!"
+      ],
+      "answer": "How fast he runs!"
+    },
+    {
+      "id": 6,
+      "question": "Change into assertive: How sweetly she sings!",
+      "options": [
+        "She sings sweetly.",
+        "She sings very sweetly.",
+        "She sang sweetly.",
+        "She can sing sweetly."
+      ],
+      "answer": "She sings very sweetly."
+    },
+    {
+      "id": 7,
+      "question": "Change into exclamatory: It was an exciting match.",
+      "options": [
+        "How exciting the match was!",
+        "What an exciting match it was!",
+        "What exciting match it was!",
+        "How an exciting match it was!"
+      ],
+      "answer": "What an exciting match it was!"
+    },
+    {
+      "id": 8,
+      "question": "Change into assertive: How pleasant the weather is!",
+      "options": [
+        "The weather is pleasant.",
+        "The weather was pleasant.",
+        "The weather is very pleasant.",
+        "The weather has been pleasant."
+      ],
+      "answer": "The weather is very pleasant."
+    },
+    {
+      "id": 9,
+      "question": "Change into exclamatory: The boy is very intelligent.",
+      "options": [
+        "How intelligent the boy is!",
+        "What an intelligent boy is!",
+        "How the boy intelligent is!",
+        "What intelligent the boy is!"
+      ],
+      "answer": "How intelligent the boy is!"
+    },
+    {
+      "id": 10,
+      "question": "Change into assertive: What a charming village it is!",
+      "options": [
+        "It is a charming village.",
+        "It is a very charming village.",
+        "The village is charming.",
+        "It was a charming village."
+      ],
+      "answer": "It is a very charming village."
+    },
+    {
+      "id": 11,
+      "question": "Change into exclamatory: The old man is very kind.",
+      "options": [
+        "How kind the old man is!",
+        "What a kind old man is!",
+        "How the old man is kind!",
+        "What kind the old man is!"
+      ],
+      "answer": "How kind the old man is!"
+    },
+    {
+      "id": 12,
+      "question": "Change into assertive: What an excellent idea it is!",
+      "options": [
+        "It is an excellent idea.",
+        "It is a very excellent idea.",
+        "The idea is excellent.",
+        "It was an excellent idea."
+      ],
+      "answer": "It is a very excellent idea."
+    },
+    {
+      "id": 13,
+      "question": "Change into exclamatory: She dances very gracefully.",
+      "options": [
+        "What gracefully she dances!",
+        "How gracefully she dances!",
+        "How she dances gracefully!",
+        "What a graceful dance she does!"
+      ],
+      "answer": "How gracefully she dances!"
+    },
+    {
+      "id": 14,
+      "question": "Change into assertive: How brave he is!",
+      "options": [
+        "He is brave.",
+        "He is very brave.",
+        "He was brave.",
+        "He has been brave."
+      ],
+      "answer": "He is very brave."
+    },
+    {
+      "id": 15,
+      "question": "Change into assertive: What a pity!",
+      "options": [
+        "It is pity.",
+        "It is a pity.",
+        "It is a great pity.",
+        "It was a pity."
+      ],
+      "answer": "It is a great pity."
+    },
+    {
+      "id": 16,
+      "question": "Change into assertive: What nonsense!",
+      "options": [
+        "It is nonsense.",
+        "It is complete nonsense.",
+        "That is nonsense.",
+        "It was nonsense."
+      ],
+      "answer": "It is complete nonsense."
+    },
+    {
+      "id": 17,
+      "question": "Change into exclamatory: The river is very wide.",
+      "options": [
+        "How wide the river is!",
+        "What a wide river it is!",
+        "How the river is wide!",
+        "What wide the river is!"
+      ],
+      "answer": "How wide the river is!"
+    },
+    {
+      "id": 18,
+      "question": "Change into assertive: How foolish I was!",
+      "options": [
+        "I was foolish.",
+        "I was very foolish.",
+        "I am foolish.",
+        "I have been foolish."
+      ],
+      "answer": "I was very foolish."
+    },
+    {
+      "id": 19,
+      "question": "Change into exclamatory: It was a great achievement.",
+      "options": [
+        "How great the achievement was!",
+        "What a great achievement it was!",
+        "What great achievement it was!",
+        "How a great achievement it was!"
+      ],
+      "answer": "What a great achievement it was!"
+    },
+    {
+      "id": 20,
+      "question": "Change into assertive: Alas! He is dead.",
+      "options": [
+        "He is dead.",
+        "I am sorry that he is dead.",
+        "He was dead.",
+        "He has died."
+      ],
+      "answer": "I am sorry that he is dead."
+    }
+  ]
 }
 ]
