@@ -698,6 +698,193 @@
   ]
 },
 {
+  "id": "Tense001",
+  "header": "Basic Grammar",
+  "topic": "Tense",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She ____ to school every day.",
+      "options": ["go", "goes", "going", "gone"],
+      "answer": "goes"
+    },
+    {
+      "id": 2,
+      "question": "I ____ my homework now.",
+      "options": ["do", "did", "am doing", "have done"],
+      "answer": "am doing"
+    },
+    {
+      "id": 3,
+      "question": "They ____ lunch before we arrived.",
+      "options": ["have eaten", "had eaten", "eat", "are eating"],
+      "answer": "had eaten"
+    },
+    {
+      "id": 4,
+      "question": "We ____ the project already.",
+      "options": ["complete", "completed", "have completed", "are completing"],
+      "answer": "have completed"
+    },
+    {
+      "id": 5,
+      "question": "He ____ football when it started raining.",
+      "options": ["plays", "was playing", "has played", "will play"],
+      "answer": "was playing"
+    },
+    {
+      "id": 6,
+      "question": "She ____ a letter yesterday.",
+      "options": ["writes", "wrote", "has written", "is writing"],
+      "answer": "wrote"
+    },
+    {
+      "id": 7,
+      "question": "I ____ English since 2020.",
+      "options": ["study", "studied", "have been studying", "am studying"],
+      "answer": "have been studying"
+    },
+    {
+      "id": 8,
+      "question": "They ____ to Dhaka tomorrow.",
+      "options": ["go", "went", "are going", "have gone"],
+      "answer": "are going"
+    },
+    {
+      "id": 9,
+      "question": "The sun ____ in the east.",
+      "options": ["rise", "rises", "rose", "is rising"],
+      "answer": "rises"
+    },
+    {
+      "id": 10,
+      "question": "She ____ a book right now.",
+      "options": ["reads", "read", "is reading", "has read"],
+      "answer": "is reading"
+    },
+    {
+      "id": 11,
+      "question": "We ____ dinner before the guests arrived.",
+      "options": ["had finished", "have finished", "finish", "are finishing"],
+      "answer": "had finished"
+    },
+    {
+      "id": 12,
+      "question": "He ____ here for five years.",
+      "options": ["lives", "lived", "has lived", "is living"],
+      "answer": "has lived"
+    },
+    {
+      "id": 13,
+      "question": "They ____ for two hours before the bus came.",
+      "options": ["wait", "were waiting", "had been waiting", "have waited"],
+      "answer": "had been waiting"
+    },
+    {
+      "id": 14,
+      "question": "I ____ you tomorrow.",
+      "options": ["call", "called", "am calling", "will call"],
+      "answer": "will call"
+    },
+    {
+      "id": 15,
+      "question": "She ____ at 8 PM tonight.",
+      "options": ["studies", "will study", "will be studying", "has studied"],
+      "answer": "will be studying"
+    },
+    {
+      "id": 16,
+      "question": "By next month, we ____ the work.",
+      "options": ["finish", "will finish", "will have finished", "have finished"],
+      "answer": "will have finished"
+    },
+    {
+      "id": 17,
+      "question": "By next year, he ____ here for ten years.",
+      "options": ["will work", "will have worked", "will have been working", "has worked"],
+      "answer": "will have been working"
+    },
+    {
+      "id": 18,
+      "question": "My brother usually ____ up at 6 AM.",
+      "options": ["get", "gets", "got", "getting"],
+      "answer": "gets"
+    },
+    {
+      "id": 19,
+      "question": "They ____ TV when I called them.",
+      "options": ["watch", "watched", "were watching", "have watched"],
+      "answer": "were watching"
+    },
+    {
+      "id": 20,
+      "question": "She ____ the report yet.",
+      "options": ["does not finish", "did not finish", "has not finished", "is not finishing"],
+      "answer": "has not finished"
+    },
+    {
+      "id": 21,
+      "question": "We ____ cricket every Friday.",
+      "options": ["play", "played", "are playing", "have played"],
+      "answer": "play"
+    },
+    {
+      "id": 22,
+      "question": "He ____ when I entered the room.",
+      "options": ["slept", "was sleeping", "has slept", "sleeps"],
+      "answer": "was sleeping"
+    },
+    {
+      "id": 23,
+      "question": "I ____ this movie before.",
+      "options": ["see", "saw", "have seen", "am seeing"],
+      "answer": "have seen"
+    },
+    {
+      "id": 24,
+      "question": "She ____ in the garden since morning.",
+      "options": ["works", "worked", "has been working", "is working"],
+      "answer": "has been working"
+    },
+    {
+      "id": 25,
+      "question": "They ____ the meeting by 3 PM tomorrow.",
+      "options": ["finish", "will finish", "will be finishing", "will have finished"],
+      "answer": "will have finished"
+    },
+    {
+      "id": 26,
+      "question": "The children ____ in the playground now.",
+      "options": ["play", "played", "are playing", "have played"],
+      "answer": "are playing"
+    },
+    {
+      "id": 27,
+      "question": "He ____ his keys, so he cannot open the door.",
+      "options": ["loses", "lost", "has lost", "is losing"],
+      "answer": "has lost"
+    },
+    {
+      "id": 28,
+      "question": "We ____ for the train for an hour before it arrived.",
+      "options": ["wait", "waited", "had been waiting", "have waited"],
+      "answer": "had been waiting"
+    },
+    {
+      "id": 29,
+      "question": "She ____ her grandmother next weekend.",
+      "options": ["visits", "visited", "is visiting", "has visited"],
+      "answer": "is visiting"
+    },
+    {
+      "id": 30,
+      "question": "By December, I ____ this company for five years.",
+      "options": ["work", "will work", "will have worked", "will have been working"],
+      "answer": "will have been working"
+    }
+  ]
+},
+{
   "id": "grammar_hard",
   "header": "Grammar Changing Sentences",
   "topic": "Affirmative ↔ Negative",
