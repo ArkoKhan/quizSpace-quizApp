@@ -127,229 +127,129 @@
   ]
 },
 {
-  "id": "Sentences002",
+  "id": "IdentifySentencesAdvanced",
   "header": "Basic Grammar",
-  "topic": "Sentences (Hard)",
+  "topic": "Identify Sentences",
   "questions": [
     {
       "id": 1,
-      "question": "Which sentence is an imperative sentence expressing a request?",
-      "options": [
-        "The sun rises in the east.",
-        "Could you give me a glass of water?",
-        "How beautiful the night is!",
-        "Where are you?"
-      ],
-      "answer": "Could you give me a glass of water?"
+      "question": "Would you kindly lend me your notebook?",
+      "options": ["Imperative", "Interrogative", "Declarative", "Optative"],
+      "answer": "Imperative"
     },
     {
       "id": 2,
-      "question": "Which sentence contains a phrase rather than a clause?",
-      "options": [
-        "while it is raining",
-        "who pay their debts",
-        "in the east",
-        "which is made of gold"
-      ],
-      "answer": "in the east"
-    },
-    {
-      "id": 3,
-      "question": "In the sentence 'People who pay their debts are trusted', which part is the clause?",
-      "options": [
-        "People",
-        "are trusted",
-        "who pay their debts",
-        "their debts"
-      ],
-      "answer": "who pay their debts"
-    },
-    {
-      "id": 4,
-      "question": "Which sentence is exclamatory?",
-      "options": [
-        "Shut the door.",
-        "Where are you?",
-        "How beautiful the night is!",
-        "We are going to school."
-      ],
-      "answer": "How beautiful the night is!"
-    },
-    {
-      "id": 5,
-      "question": "A phrase differs from a clause because a phrase:",
-      "options": [
-        "contains a verb",
-        "contains a subject",
-        "has no subject and predicate",
-        "always makes complete sense"
-      ],
-      "answer": "has no subject and predicate"
-    },
-    {
-      "id": 6,
-      "question": "In 'The flowers are red in color', the complete subject is:",
-      "options": [
-        "flowers",
-        "The flowers",
-        "are red",
-        "red in color"
-      ],
-      "answer": "The flowers"
-    },
-    {
-      "id": 7,
-      "question": "Which of the following is a dependent clause?",
-      "options": [
-        "The flowers are red",
-        "while it is raining",
-        "The book is on the table",
-        "We are going home"
-      ],
-      "answer": "while it is raining"
-    },
-    {
-      "id": 8,
-      "question": "Which sentence contains an implied subject?",
-      "options": [
-        "He is playing football.",
-        "We are going to school.",
-        "Open the door.",
-        "The flowers are red."
-      ],
-      "answer": "Open the door."
-    },
-    {
-      "id": 9,
-      "question": "In 'We cannot start while it is raining', the clause is:",
-      "options": [
-        "We cannot start",
-        "cannot start",
-        "while it is raining",
-        "it"
-      ],
-      "answer": "while it is raining"
-    },
-    {
-      "id": 10,
-      "question": "Which sentence type primarily expresses emotions?",
-      "options": [
-        "Declarative",
-        "Imperative",
-        "Interrogative",
-        "Exclamatory"
-      ],
+      "question": "How magnificently the orchestra performed!",
+      "options": ["Declarative", "Exclamatory", "Imperative", "Optative"],
       "answer": "Exclamatory"
     },
     {
+      "id": 3,
+      "question": "May all your dreams come true.",
+      "options": ["Imperative", "Optative", "Exclamatory", "Declarative"],
+      "answer": "Optative"
+    },
+    {
+      "id": 4,
+      "question": "The Amazon is the largest rainforest in the world.",
+      "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+      "answer": "Declarative"
+    },
+    {
+      "id": 5,
+      "question": "Why should I trust him?",
+      "options": ["Interrogative", "Declarative", "Imperative", "Optative"],
+      "answer": "Interrogative"
+    },
+    {
+      "id": 6,
+      "question": "Let us never forget the sacrifices of our heroes.",
+      "options": ["Optative", "Imperative", "Declarative", "Exclamatory"],
+      "answer": "Imperative"
+    },
+    {
+      "id": 7,
+      "question": "Long live the Constitution.",
+      "options": ["Optative", "Imperative", "Interrogative", "Declarative"],
+      "answer": "Optative"
+    },
+    {
+      "id": 8,
+      "question": "What a dreadful storm it was!",
+      "options": ["Exclamatory", "Declarative", "Imperative", "Optative"],
+      "answer": "Exclamatory"
+    },
+    {
+      "id": 9,
+      "question": "Please do not disturb the patients.",
+      "options": ["Imperative", "Declarative", "Optative", "Interrogative"],
+      "answer": "Imperative"
+    },
+    {
+      "id": 10,
+      "question": "Can anyone solve this puzzle?",
+      "options": ["Interrogative", "Imperative", "Declarative", "Exclamatory"],
+      "answer": "Interrogative"
+    },
+    {
       "id": 11,
-      "question": "Which option contains a phrase?",
-      "options": [
-        "who pay their debts",
-        "which is made of gold",
-        "to my door",
-        "while it is raining"
-      ],
-      "answer": "to my door"
+      "question": "May peace and prosperity be with you.",
+      "options": ["Optative", "Exclamatory", "Imperative", "Declarative"],
+      "answer": "Optative"
     },
     {
       "id": 12,
-      "question": "Which part of a sentence usually contains the verb?",
-      "options": [
-        "Subject",
-        "Predicate",
-        "Object",
-        "Phrase"
-      ],
-      "answer": "Predicate"
+      "question": "The meeting has been postponed until next week.",
+      "options": ["Declarative", "Interrogative", "Imperative", "Optative"],
+      "answer": "Declarative"
     },
     {
       "id": 13,
-      "question": "Which of the following is NOT a kind of sentence discussed in the notes?",
-      "options": [
-        "Declarative",
-        "Interrogative",
-        "Conditional",
-        "Imperative"
-      ],
-      "answer": "Conditional"
+      "question": "How fortunate we are to witness this moment!",
+      "options": ["Exclamatory", "Optative", "Declarative", "Imperative"],
+      "answer": "Exclamatory"
     },
     {
       "id": 14,
-      "question": "In 'He has a chain which is made of gold', the clause is:",
-      "options": [
-        "He has",
-        "a chain",
-        "which is made of gold",
-        "made of gold"
-      ],
-      "answer": "which is made of gold"
+      "question": "Would you mind closing the gate behind you?",
+      "options": ["Imperative", "Interrogative", "Declarative", "Optative"],
+      "answer": "Imperative"
     },
     {
       "id": 15,
-      "question": "Which sentence is best classified as declarative?",
-      "options": [
-        "Why are you late?",
-        "Please be quiet.",
-        "The book is on the table.",
-        "What a surprise!"
-      ],
-      "answer": "The book is on the table."
+      "question": "May the best team win.",
+      "options": ["Optative", "Imperative", "Exclamatory", "Declarative"],
+      "answer": "Optative"
     },
     {
       "id": 16,
-      "question": "Which pair correctly identifies the two main parts of a sentence?",
-      "options": [
-        "Noun and Verb",
-        "Phrase and Clause",
-        "Subject and Predicate",
-        "Question and Answer"
-      ],
-      "answer": "Subject and Predicate"
+      "question": "Who could have predicted such an outcome?",
+      "options": ["Interrogative", "Declarative", "Exclamatory", "Imperative"],
+      "answer": "Interrogative"
     },
     {
       "id": 17,
-      "question": "Which sentence contains both a main clause and a dependent clause?",
-      "options": [
-        "Open the door.",
-        "The sky is blue.",
-        "We cannot start while it is raining.",
-        "How lovely!"
-      ],
-      "answer": "We cannot start while it is raining."
+      "question": "Alas! The ancient monument has collapsed.",
+      "options": ["Exclamatory", "Optative", "Declarative", "Imperative"],
+      "answer": "Exclamatory"
     },
     {
       "id": 18,
-      "question": "Which of the following groups of words makes sense but not complete sense by itself?",
-      "options": [
-        "The flowers are red.",
-        "He is playing football.",
-        "in the east",
-        "Where are you?"
-      ],
-      "answer": "in the east"
+      "question": "Let him speak without interruption.",
+      "options": ["Imperative", "Optative", "Declarative", "Interrogative"],
+      "answer": "Imperative"
     },
     {
       "id": 19,
-      "question": "In the sentence 'He is playing football', which part is the predicate?",
-      "options": [
-        "He",
-        "playing",
-        "football",
-        "is playing football"
-      ],
-      "answer": "is playing football"
+      "question": "The discovery changed the course of scientific research.",
+      "options": ["Declarative", "Exclamatory", "Imperative", "Optative"],
+      "answer": "Declarative"
     },
     {
       "id": 20,
-      "question": "Which sentence is an imperative sentence expressing a command?",
-      "options": [
-        "Shut the door.",
-        "Where are you?",
-        "The sun rises in the east.",
-        "Oh no! I broke the glass."
-      ],
-      "answer": "Shut the door."
+      "question": "May God grant us wisdom and patience.",
+      "options": ["Optative", "Imperative", "Declarative", "Exclamatory"],
+      "answer": "Optative"
     }
   ]
 },
