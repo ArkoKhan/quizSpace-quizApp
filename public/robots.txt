@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /english/quiz/
+Disallow: /math/quiz/
+Disallow: /english/result/
+Disallow: /math/result/
