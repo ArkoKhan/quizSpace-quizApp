@@ -1,0 +1,26 @@
+[
+     {
+    "id": "arithmetic",
+    "header": { "en": "Arithmetic Quiz", "bn": "পাটিগণিত কুইজ" },
+    "topic": { "en": "Everyday Numbers", "bn": "দৈনন্দিন সংখ্যা" },
+    "questions": [
+      { "id": 1, "question": { "en": "What is 8 + 7?", "bn": "৮ + ৭ কত?" }, "options": { "en": ["13", "14", "15", "16"], "bn": ["১৩", "১৪", "১৫", "১৬"] }, "answer": "15" },
+      { "id": 2, "question": { "en": "What is 36 / 6?", "bn": "৩৬ / ৬ কত?" }, "options": { "en": ["5", "6", "7", "8"], "bn": ["৫", "৬", "৭", "৮"] }, "answer": "6" },
+      { "id": 3, "question": { "en": "What is 9 x 4?", "bn": "৯ x ৪ কত?" }, "options": { "en": ["32", "34", "36", "38"], "bn": ["৩২", "৩৪", "৩৬", "৩৮"] }, "answer": "36" },
+      { "id": 4, "question": { "en": "What is half of 50?", "bn": "৫০ এর অর্ধেক কত?" }, "options": { "en": ["15", "20", "25", "30"], "bn": ["১৫", "২০", "২৫", "৩০"] }, "answer": "25" },
+      { "id": 5, "question": { "en": "Which number is even?", "bn": "কোন সংখ্যাটি জোড়?" }, "options": { "en": ["17", "21", "33", "42"], "bn": ["১৭", "২১", "৩৩", "৪২"] }, "answer": "42" }
+    ]
+  },
+     {
+    "id": "algebra",
+    "header": { "en": "Algebra Quiz", "bn": "বীজগণিত কুইজ" },
+    "topic": { "en": "Basic Algebra", "bn": "মৌলিক বীজগণিত" },
+    "questions": [
+      { "id": 1, "question": { "en": "If x + 3 = 10, what is x?", "bn": "x + 3 = 10 হলে x কত?" }, "options": { "en": ["5", "6", "7", "8"], "bn": ["5", "6", "7", "8"] }, "answer": "7" },
+      { "id": 2, "question": { "en": "What is 2y when y = 6?", "bn": "y = 6 হলে 2y কত?" }, "options": { "en": ["8", "10", "12", "14"], "bn": ["8", "10", "12", "14"] }, "answer": "12" },
+      { "id": 3, "question": { "en": "Which expression means 'five more than n'?", "bn": "'n এর চেয়ে পাঁচ বেশি' কোন রাশিটি?" }, "options": { "en": ["n - 5", "5n", "n + 5", "n / 5"], "bn": ["n - 5", "5n", "n + 5", "n / 5"] }, "answer": "n + 5" },
+      { "id": 4, "question": { "en": "Solve: 3x = 21.", "bn": "সমাধান করো: 3x = 21" }, "options": { "en": ["5", "6", "7", "8"], "bn": ["5", "6", "7", "8"] }, "answer": "7" },
+      { "id": 5, "question": { "en": "What is the value of a + a when a = 4?", "bn": "a = 4 হলে a + a এর মান কত?" }, "options": { "en": ["4", "6", "8", "16"], "bn": ["4", "6", "8", "16"] }, "answer": "8" }
+    ]
+  }
+]

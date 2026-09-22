@@ -12,15 +12,403 @@
     ]
   },
   {
-    "id": "algebra",
-    "header": { "en": "Algebra Quiz", "bn": "বীজগণিত কুইজ" },
-    "topic": { "en": "Basic Algebra", "bn": "মৌলিক বীজগণিত" },
-    "questions": [
-      { "id": 1, "question": { "en": "If x + 3 = 10, what is x?", "bn": "x + 3 = 10 হলে x কত?" }, "options": { "en": ["5", "6", "7", "8"], "bn": ["5", "6", "7", "8"] }, "answer": "7" },
-      { "id": 2, "question": { "en": "What is 2y when y = 6?", "bn": "y = 6 হলে 2y কত?" }, "options": { "en": ["8", "10", "12", "14"], "bn": ["8", "10", "12", "14"] }, "answer": "12" },
-      { "id": 3, "question": { "en": "Which expression means 'five more than n'?", "bn": "'n এর চেয়ে পাঁচ বেশি' কোন রাশিটি?" }, "options": { "en": ["n - 5", "5n", "n + 5", "n / 5"], "bn": ["n - 5", "5n", "n + 5", "n / 5"] }, "answer": "n + 5" },
-      { "id": 4, "question": { "en": "Solve: 3x = 21.", "bn": "সমাধান করো: 3x = 21" }, "options": { "en": ["5", "6", "7", "8"], "bn": ["5", "6", "7", "8"] }, "answer": "7" },
-      { "id": 5, "question": { "en": "What is the value of a + a when a = 4?", "bn": "a = 4 হলে a + a এর মান কত?" }, "options": { "en": ["4", "6", "8", "16"], "bn": ["4", "6", "8", "16"] }, "answer": "8" }
-    ]
-  }
+  "id": "algebra_add_sub_vars_001",
+  "header": {
+    "en": "Algebra",
+    "bn": "বীজগণিত"
+  },
+  "topic": {
+    "en": "Addition and Subtraction in Algebra",
+    "bn": "বীজগণিতে যোগ ও বিয়োগ"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "If x = 7, what is x + 5?",
+        "bn": "x = 7 হলে x + 5 কত?"
+      },
+      "options": {
+        "en": ["10", "11", "12", "13"],
+        "bn": ["10", "11", "12", "13"]
+      },
+      "answer": "12"
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "If y = 12, what is y - 4?",
+        "bn": "y = 12 হলে y - 4 কত?"
+      },
+      "options": {
+        "en": ["6", "7", "8", "9"],
+        "bn": ["6", "7", "8", "9"]
+      },
+      "answer": "8"
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "If a = 5, what is a + 9?",
+        "bn": "a = 5 হলে a + 9 কত?"
+      },
+      "options": {
+        "en": ["12", "13", "14", "15"],
+        "bn": ["12", "13", "14", "15"]
+      },
+      "answer": "14"
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "If b = 15, what is b - 7?",
+        "bn": "b = 15 হলে b - 7 কত?"
+      },
+      "options": {
+        "en": ["6", "7", "8", "9"],
+        "bn": ["6", "7", "8", "9"]
+      },
+      "answer": "8"
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "If m = 4, what is m + 8 - 3?",
+        "bn": "m = 4 হলে m + 8 - 3 কত?"
+      },
+      "options": {
+        "en": ["8", "9", "10", "11"],
+        "bn": ["8", "9", "10", "11"]
+      },
+      "answer": "9"
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "If n = 10, what is n - 2 + 5?",
+        "bn": "n = 10 হলে n - 2 + 5 কত?"
+      },
+      "options": {
+        "en": ["11", "12", "13", "14"],
+        "bn": ["11", "12", "13", "14"]
+      },
+      "answer": "13"
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "If p = 6, what is p + p?",
+        "bn": "p = 6 হলে p + p কত?"
+      },
+      "options": {
+        "en": ["6", "10", "12", "18"],
+        "bn": ["6", "10", "12", "18"]
+      },
+      "answer": "12"
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "If q = 9, what is q + 4 - 6?",
+        "bn": "q = 9 হলে q + 4 - 6 কত?"
+      },
+      "options": {
+        "en": ["5", "6", "7", "8"],
+        "bn": ["5", "6", "7", "8"]
+      },
+      "answer": "7"
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which expression means '3 more than x'?",
+        "bn": "'x এর চেয়ে ৩ বেশি' কোন রাশিটি?"
+      },
+      "options": {
+        "en": ["x - 3", "3x", "x + 3", "x / 3"],
+        "bn": ["x - 3", "3x", "x + 3", "x / 3"]
+      },
+      "answer": "x + 3"
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which expression means '5 less than y'?",
+        "bn": "'y এর চেয়ে ৫ কম' কোন রাশিটি?"
+      },
+      "options": {
+        "en": ["y + 5", "5y", "y - 5", "y / 5"],
+        "bn": ["y + 5", "5y", "y - 5", "y / 5"]
+      },
+      "answer": "y - 5"
+    }
+  ]
+},
+{
+  "id": "algebra_add_sub_vars_002",
+  "header": {
+    "en": "Algebra",
+    "bn": "বীজগণিত"
+  },
+  "topic": {
+    "en": "Addition and Subtraction with Variables (Hard)",
+    "bn": "চলকসহ যোগ ও বিয়োগ (কঠিন)"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "If x = 8, what is 2x + 5 - x?",
+        "bn": "x = 8 হলে 2x + 5 - x এর মান কত?"
+      },
+      "options": {
+        "en": ["11", "12", "13", "14"],
+        "bn": ["11", "12", "13", "14"]
+      },
+      "answer": "13"
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "If y = 12, what is y + y - 7?",
+        "bn": "y = 12 হলে y + y - 7 এর মান কত?"
+      },
+      "options": {
+        "en": ["15", "16", "17", "18"],
+        "bn": ["15", "16", "17", "18"]
+      },
+      "answer": "17"
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "If a = 5 and b = 9, what is a + b - 3?",
+        "bn": "a = 5 এবং b = 9 হলে a + b - 3 এর মান কত?"
+      },
+      "options": {
+        "en": ["10", "11", "12", "13"],
+        "bn": ["10", "11", "12", "13"]
+      },
+      "answer": "11"
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "If m = 4, what is 3 + m + 7 - 2?",
+        "bn": "m = 4 হলে 3 + m + 7 - 2 এর মান কত?"
+      },
+      "options": {
+        "en": ["10", "11", "12", "13"],
+        "bn": ["10", "11", "12", "13"]
+      },
+      "answer": "12"
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "If p = 10, what is p - 4 + p - 3?",
+        "bn": "p = 10 হলে p - 4 + p - 3 এর মান কত?"
+      },
+      "options": {
+        "en": ["11", "12", "13", "14"],
+        "bn": ["11", "12", "13", "14"]
+      },
+      "answer": "13"
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "If x = 6, what is 4 + x - 2 + x?",
+        "bn": "x = 6 হলে 4 + x - 2 + x এর মান কত?"
+      },
+      "options": {
+        "en": ["12", "13", "14", "15"],
+        "bn": ["12", "13", "14", "15"]
+      },
+      "answer": "14"
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Which expression is equivalent to x + 7 - 3?",
+        "bn": "x + 7 - 3 এর সমতুল্য রাশি কোনটি?"
+      },
+      "options": {
+        "en": ["x + 4", "x - 4", "4x", "x + 10"],
+        "bn": ["x + 4", "x - 4", "4x", "x + 10"]
+      },
+      "answer": "x + 4"
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "If n = 7, what is n + n + 5 - 4?",
+        "bn": "n = 7 হলে n + n + 5 - 4 এর মান কত?"
+      },
+      "options": {
+        "en": ["13", "14", "15", "16"],
+        "bn": ["13", "14", "15", "16"]
+      },
+      "answer": "15"
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which expression represents '2 less than the sum of x and 9'?",
+        "bn": "'x এবং 9 এর যোগফল থেকে 2 কম' কোন রাশিটি নির্দেশ করে?"
+      },
+      "options": {
+        "en": ["x + 9 - 2", "x - 9 - 2", "2 - (x + 9)", "x + 11"],
+        "bn": ["x + 9 - 2", "x - 9 - 2", "2 - (x + 9)", "x + 11"]
+      },
+      "answer": "x + 9 - 2"
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "If a = 3 and b = 8, what is a + b + a - 4?",
+        "bn": "a = 3 এবং b = 8 হলে a + b + a - 4 এর মান কত?"
+      },
+      "options": {
+        "en": ["9", "10", "11", "12"],
+        "bn": ["9", "10", "11", "12"]
+      },
+      "answer": "10"
+    }
+  ]
+},
+{
+  "id": "algebra_mult_div_coeff_001",
+  "header": {
+    "en": "Algebra",
+    "bn": "বীজগণিত"
+  },
+  "topic": {
+    "en": "Variables and Coefficients",
+    "bn": "চলক ও সহগ"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "If x = 5, what is 4x?",
+        "bn": "x = 5 হলে 4x এর মান কত?"
+      },
+      "options": {
+        "en": ["15", "20", "25", "30"],
+        "bn": ["15", "20", "25", "30"]
+      },
+      "answer": "20"
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "If y = 8, what is 3y?",
+        "bn": "y = 8 হলে 3y এর মান কত?"
+      },
+      "options": {
+        "en": ["16", "20", "24", "32"],
+        "bn": ["16", "20", "24", "32"]
+      },
+      "answer": "24"
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "What is the coefficient of 9m?",
+        "bn": "9m এর সহগ কত?"
+      },
+      "options": {
+        "en": ["9", "m", "1", "0"],
+        "bn": ["9", "m", "1", "0"]
+      },
+      "answer": "9"
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "If a = 6, what is 5a ÷ 3?",
+        "bn": "a = 6 হলে 5a ÷ 3 এর মান কত?"
+      },
+      "options": {
+        "en": ["8", "10", "12", "15"],
+        "bn": ["8", "10", "12", "15"]
+      },
+      "answer": "10"
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "If n = 18, what is n ÷ 6?",
+        "bn": "n = 18 হলে n ÷ 6 এর মান কত?"
+      },
+      "options": {
+        "en": ["2", "3", "4", "6"],
+        "bn": ["2", "3", "4", "6"]
+      },
+      "answer": "3"
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "If p = 4, what is 2p + 3p?",
+        "bn": "p = 4 হলে 2p + 3p এর মান কত?"
+      },
+      "options": {
+        "en": ["16", "18", "20", "24"],
+        "bn": ["16", "18", "20", "24"]
+      },
+      "answer": "20"
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "What is the coefficient of -7x?",
+        "bn": "-7x এর সহগ কত?"
+      },
+      "options": {
+        "en": ["7", "-7", "x", "-x"],
+        "bn": ["7", "-7", "x", "-x"]
+      },
+      "answer": "-7"
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "If b = 12, what is (2b) ÷ 4?",
+        "bn": "b = 12 হলে (2b) ÷ 4 এর মান কত?"
+      },
+      "options": {
+        "en": ["4", "5", "6", "8"],
+        "bn": ["4", "5", "6", "8"]
+      },
+      "answer": "6"
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which expression means 'five times x'?",
+        "bn": "'x এর পাঁচ গুণ' কোন রাশিটি নির্দেশ করে?"
+      },
+      "options": {
+        "en": ["x + 5", "x - 5", "5x", "x ÷ 5"],
+        "bn": ["x + 5", "x - 5", "5x", "x ÷ 5"]
+      },
+      "answer": "5x"
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "If k = 9, what is 6k ÷ 3?",
+        "bn": "k = 9 হলে 6k ÷ 3 এর মান কত?"
+      },
+      "options": {
+        "en": ["12", "15", "18", "24"],
+        "bn": ["12", "15", "18", "24"]
+      },
+      "answer": "18"
+    }
+  ]
+}
+ 
 ]
