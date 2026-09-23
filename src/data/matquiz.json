@@ -409,6 +409,139 @@
       "answer": "18"
     }
   ]
+},
+{
+  "id": "algebra_exponents_001",
+  "header": {
+    "en": "Algebra",
+    "bn": "বীজগণিত"
+  },
+  "topic": {
+    "en": "Exponents with Variables",
+    "bn": "চলকসহ সূচক"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "If x = 3, what is x²?",
+        "bn": "x = 3 হলে x² এর মান কত?"
+      },
+      "options": {
+        "en": ["6", "9", "12", "18"],
+        "bn": ["6", "9", "12", "18"]
+      },
+      "answer": "9"
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "If y = 2, what is y³?",
+        "bn": "y = 2 হলে y³ এর মান কত?"
+      },
+      "options": {
+        "en": ["4", "6", "8", "16"],
+        "bn": ["4", "6", "8", "16"]
+      },
+      "answer": "8"
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "What does x³ mean?",
+        "bn": "x³ বলতে কী বোঝায়?"
+      },
+      "options": {
+        "en": ["x × 3", "x + x + x", "x × x × x", "3 + x"],
+        "bn": ["x × 3", "x + x + x", "x × x × x", "3 + x"]
+      },
+      "answer": "x × x × x"
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "If a = 4, what is a² + 1?",
+        "bn": "a = 4 হলে a² + 1 এর মান কত?"
+      },
+      "options": {
+        "en": ["15", "16", "17", "18"],
+        "bn": ["15", "16", "17", "18"]
+      },
+      "answer": "17"
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "If b = 5, what is b² − 9?",
+        "bn": "b = 5 হলে b² − 9 এর মান কত?"
+      },
+      "options": {
+        "en": ["14", "15", "16", "17"],
+        "bn": ["14", "15", "16", "17"]
+      },
+      "answer": "16"
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "If m = 2, what is 3m²?",
+        "bn": "m = 2 হলে 3m² এর মান কত?"
+      },
+      "options": {
+        "en": ["6", "8", "12", "18"],
+        "bn": ["6", "8", "12", "18"]
+      },
+      "answer": "12"
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "If n = 3, what is 2n³?",
+        "bn": "n = 3 হলে 2n³ এর মান কত?"
+      },
+      "options": {
+        "en": ["18", "27", "54", "81"],
+        "bn": ["18", "27", "54", "81"]
+      },
+      "answer": "54"
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "In the expression 5x², what is the exponent of x?",
+        "bn": "5x² রাশিতে x এর সূচক কত?"
+      },
+      "options": {
+        "en": ["5", "1", "2", "10"],
+        "bn": ["5", "1", "2", "10"]
+      },
+      "answer": "2"
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "If p = 4, what is p² + p?",
+        "bn": "p = 4 হলে p² + p এর মান কত?"
+      },
+      "options": {
+        "en": ["16", "18", "20", "24"],
+        "bn": ["16", "18", "20", "24"]
+      },
+      "answer": "20"
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "If k = 2, what is k³ + k²?",
+        "bn": "k = 2 হলে k³ + k² এর মান কত?"
+      },
+      "options": {
+        "en": ["10", "12", "14", "16"],
+        "bn": ["10", "12", "14", "16"]
+      },
+      "answer": "12"
+    }
+  ]
 }
  
 ]

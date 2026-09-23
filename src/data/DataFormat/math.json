@@ -1,7 +1,7 @@
 [
      {
     "id": "arithmetic",
-    "header": { "en": "Arithmetic Quiz", "bn": "পাটিগণিত কুইজ" },
+    "header": { "en": "Arithmetic", "bn": "পাটিগণিত" },
     "topic": { "en": "Everyday Numbers", "bn": "দৈনন্দিন সংখ্যা" },
     "questions": [
       { "id": 1, "question": { "en": "What is 8 + 7?", "bn": "৮ + ৭ কত?" }, "options": { "en": ["13", "14", "15", "16"], "bn": ["১৩", "১৪", "১৫", "১৬"] }, "answer": "15" },
@@ -13,7 +13,7 @@
   },
      {
     "id": "algebra",
-    "header": { "en": "Algebra Quiz", "bn": "বীজগণিত কুইজ" },
+    "header": { "en": "Algebra", "bn": "বীজগণিত" },
     "topic": { "en": "Basic Algebra", "bn": "মৌলিক বীজগণিত" },
     "questions": [
       { "id": 1, "question": { "en": "If x + 3 = 10, what is x?", "bn": "x + 3 = 10 হলে x কত?" }, "options": { "en": ["5", "6", "7", "8"], "bn": ["5", "6", "7", "8"] }, "answer": "7" },
