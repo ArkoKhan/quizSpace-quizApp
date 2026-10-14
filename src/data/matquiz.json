@@ -542,6 +542,259 @@
       "answer": "12"
     }
   ]
+},
+{
+  "id": "algebra_exponents_operations_001",
+  "header": {
+    "en": "Algebra",
+    "bn": "বীজগণিত"
+  },
+  "topic": {
+    "en": "Addition, Subtraction, Multiplication, and Division with Exponents",
+    "bn": "সূচকসহ যোগ, বিয়োগ, গুণ ও ভাগ"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Simplify: 3x² + 5x²",
+        "bn": "সরল করো: 3x² + 5x²"
+      },
+      "options": {
+        "en": ["8x²", "15x⁴", "2x²", "8x⁴"],
+        "bn": ["8x²", "15x⁴", "2x²", "8x⁴"]
+      },
+      "answer": "8x²"
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Simplify: 9y³ - 4y³",
+        "bn": "সরল করো: 9y³ - 4y³"
+      },
+      "options": {
+        "en": ["5y³", "5y⁶", "13y³", "5y²"],
+        "bn": ["5y³", "5y⁶", "13y³", "5y²"]
+      },
+      "answer": "5y³"
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Simplify: 2x³ × 4x²",
+        "bn": "সরল করো: 2x³ × 4x²"
+      },
+      "options": {
+        "en": ["8x⁵", "6x⁵", "8x⁶", "8x"],
+        "bn": ["8x⁵", "6x⁵", "8x⁶", "8x"]
+      },
+      "answer": "8x⁵"
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Simplify: 12a⁷ ÷ 3a²",
+        "bn": "সরল করো: 12a⁷ ÷ 3a²"
+      },
+      "options": {
+        "en": ["4a⁵", "4a⁹", "9a⁵", "4a³"],
+        "bn": ["4a⁵", "4a⁹", "9a⁵", "4a³"]
+      },
+      "answer": "4a⁵"
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "If x = 2, what is 3x³?",
+        "bn": "x = 2 হলে 3x³ এর মান কত?"
+      },
+      "options": {
+        "en": ["12", "18", "24", "36"],
+        "bn": ["12", "18", "24", "36"]
+      },
+      "answer": "24"
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "If y = 3, what is 2y² + y²?",
+        "bn": "y = 3 হলে 2y² + y² এর মান কত?"
+      },
+      "options": {
+        "en": ["18", "27", "36", "45"],
+        "bn": ["18", "27", "36", "45"]
+      },
+      "answer": "27"
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Simplify: 5m² × 2m³",
+        "bn": "সরল করো: 5m² × 2m³"
+      },
+      "options": {
+        "en": ["10m⁵", "7m⁵", "10m⁶", "10m²"],
+        "bn": ["10m⁵", "7m⁵", "10m⁶", "10m²"]
+      },
+      "answer": "10m⁵"
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Simplify: 18n⁶ ÷ 3n²",
+        "bn": "সরল করো: 18n⁶ ÷ 3n²"
+      },
+      "options": {
+        "en": ["6n⁴", "6n⁸", "15n⁴", "6n³"],
+        "bn": ["6n⁴", "6n⁸", "15n⁴", "6n³"]
+      },
+      "answer": "6n⁴"
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "What is the coefficient in 7x⁴?",
+        "bn": "7x⁴ রাশিতে সহগ কত?"
+      },
+      "options": {
+        "en": ["4", "7", "x", "28"],
+        "bn": ["4", "7", "x", "28"]
+      },
+      "answer": "7"
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What is the exponent of y in 9y⁵?",
+        "bn": "9y⁵ রাশিতে y-এর সূচক কত?"
+      },
+      "options": {
+        "en": ["5", "9", "4", "45"],
+        "bn": ["5", "9", "4", "45"]
+      },
+      "answer": "5"
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Simplify: x² × x⁴",
+        "bn": "সরল করো: x² × x⁴"
+      },
+      "options": {
+        "en": ["x⁶", "x⁸", "x²", "2x⁶"],
+        "bn": ["x⁶", "x⁸", "x²", "2x⁶"]
+      },
+      "answer": "x⁶"
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Simplify: y⁸ ÷ y³",
+        "bn": "সরল করো: y⁸ ÷ y³"
+      },
+      "options": {
+        "en": ["y⁵", "y¹¹", "y²", "8y⁵"],
+        "bn": ["y⁵", "y¹¹", "y²", "8y⁵"]
+      },
+      "answer": "y⁵"
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Simplify: 4a² + 6a²",
+        "bn": "সরল করো: 4a² + 6a²"
+      },
+      "options": {
+        "en": ["10a²", "24a⁴", "10a⁴", "2a²"],
+        "bn": ["10a²", "24a⁴", "10a⁴", "2a²"]
+      },
+      "answer": "10a²"
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Simplify: 11b³ - 8b³",
+        "bn": "সরল করো: 11b³ - 8b³"
+      },
+      "options": {
+        "en": ["3b³", "3b⁶", "19b³", "3b²"],
+        "bn": ["3b³", "3b⁶", "19b³", "3b²"]
+      },
+      "answer": "3b³"
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "If p = 2, what is 5p²?",
+        "bn": "p = 2 হলে 5p² এর মান কত?"
+      },
+      "options": {
+        "en": ["10", "15", "20", "25"],
+        "bn": ["10", "15", "20", "25"]
+      },
+      "answer": "20"
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "If q = 3, what is q³ + q²?",
+        "bn": "q = 3 হলে q³ + q² এর মান কত?"
+      },
+      "options": {
+        "en": ["30", "36", "18", "24"],
+        "bn": ["30", "36", "18", "24"]
+      },
+      "answer": "36"
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Simplify: 3r⁴ × 2r²",
+        "bn": "সরল করো: 3r⁴ × 2r²"
+      },
+      "options": {
+        "en": ["6r⁶", "5r⁶", "6r⁸", "6r²"],
+        "bn": ["6r⁶", "5r⁶", "6r⁸", "6r²"]
+      },
+      "answer": "6r⁶"
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Simplify: 24s⁵ ÷ 6s²",
+        "bn": "সরল করো: 24s⁵ ÷ 6s²"
+      },
+      "options": {
+        "en": ["4s³", "18s³", "4s⁷", "4s²"],
+        "bn": ["4s³", "18s³", "4s⁷", "4s²"]
+      },
+      "answer": "4s³"
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Which expression is equivalent to 2x² + 3x²?",
+        "bn": "2x² + 3x² এর সমতুল্য রাশি কোনটি?"
+      },
+      "options": {
+        "en": ["5x²", "6x⁴", "5x⁴", "x²"],
+        "bn": ["5x²", "6x⁴", "5x⁴", "x²"]
+      },
+      "answer": "5x²"
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Which expression is equivalent to 4y⁶ ÷ 2y²?",
+        "bn": "4y⁶ ÷ 2y² এর সমতুল্য রাশি কোনটি?"
+      },
+      "options": {
+        "en": ["2y⁴", "2y⁸", "8y⁴", "2y³"],
+        "bn": ["2y⁴", "2y⁸", "8y⁴", "2y³"]
+      },
+      "answer": "2y⁴"
+    }
+  ]
 }
  
 ]
